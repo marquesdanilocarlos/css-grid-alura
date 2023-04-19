@@ -21,6 +21,7 @@ body {
 
 .secao {
     display: grid;
+    align-items: center;
 }
 
 /*Seção horizontal*/
@@ -46,6 +47,10 @@ body {
     grid-area: 1/3/4/4;
 }
 
+.secao-horizontal .cartao__titulo {
+    align-self: end;
+}
+
 /*Seção vertical*/
 
 .secao-vertical {
@@ -62,4 +67,8 @@ body {
     display: grid;
     grid-template-rows: auto auto auto 1fr;
     row-gap: 2rem;
+}
+
+.menu-lateral__logo {
+    justify-self: center;
 }
