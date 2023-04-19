@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7d5f7f8e-c368-44de-9216-e7dfd1e530a0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/alura-Cast_logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/boss-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/boss-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/botao-play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/botao-play.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/carreiras-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/fronteiras-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/fronteiras-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/fronteiras-3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/fronteiras-4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/fronteiras-5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/fronteiras-6.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/fronteiras-7.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/hipsters-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/hipsters-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/hipsters-3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/hipsters-4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/hipsters-5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/hipsters-6.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/hipsters-7.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/hipsters-8.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/hipsters-9.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/icone-add_box.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/icone-anterior.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/icone-avancar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/icone-biblioteca-mb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/icone-biblioteca.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/icone-busca-mb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/icone-busca.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/icone-home-mb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/icone-home.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/icone-play.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/icone-proximo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/icone-replay.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/icone-stars.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/icone-volume-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/icone-volume-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/layers-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/layers-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/layers-3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/scuba-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/scuba-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/scuba-3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/seta-avançar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/seta-voltar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/style/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/style/grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/style/reset.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/style/responsivo.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/bin/php" />
+  <component name="ProjectId" id="2MVVPeb2H5oU2bHvh7Td6TKGAmA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/css-grid-alura/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d5f7f8e-c368-44de-9216-e7dfd1e530a0" name="Changes" comment="" />
+      <created>1677852713259</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677852713259</updated>
+      <workItem from="1677852714428" duration="4994000" />
+      <workItem from="1678197343157" duration="5063000" />
+      <workItem from="1678717153934" duration="394000" />
+      <workItem from="1678717556415" duration="1204000" />
+      <workItem from="1679589188531" duration="451000" />
+      <workItem from="1679589666062" duration="3831000" />
+      <workItem from="1680516128299" duration="599000" />
+      <workItem from="1680790681605" duration="599000" />
+      <workItem from="1681146053488" duration="599000" />
+      <workItem from="1681220968299" duration="590000" />
+      <workItem from="1681944992886" duration="221000" />
+      <workItem from="1681945220519" duration="605000" />
+    </task>
+    <task id="LOCAL-00001" summary="Aula 1 - Grid areas">
+      <created>1677897170347</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677897170347</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Aulas 2 e 3 - Posicionamento de grid itens">
+      <created>1678121328537</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678121328537</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Aulas 3 - Posicionamento grid-column, grid-row e grid-area">
+      <created>1679603079690</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679603079690</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Aula 1 - Grid areas" />
+    <MESSAGE value="Aulas 2 e 3 - Posicionamento de grid itens" />
+    <MESSAGE value="Aulas 3 - Posicionamento grid-column, grid-row e grid-area" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aulas 3 - Posicionamento grid-column, grid-row e grid-area" />
+  </component>
+</project>
