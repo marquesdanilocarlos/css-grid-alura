@@ -19,11 +19,20 @@ body {
     grid-area: main;
 }
 
+.secao {
+    display: grid;
+}
+
 /*Seção horizontal*/
+
+.secao-horizontal {
+    grid-template-rows: 120px auto;
+}
 
 .secao-horizontal .cartao {
     display: grid;
     grid-template-columns: auto 1fr auto;
+    column-gap: 1.25rem;
 }
 
 .secao-horizontal .cartao__imagem {
@@ -34,17 +43,23 @@ body {
 .secao-horizontal .cartao__botao {
     /*grid-column: 3/4;
     grid-row: 1/4;*/
-    grid-area: 1/4/3/4;
+    grid-area: 1/3/4/4;
 }
 
 /*Seção vertical*/
 
 .secao-vertical {
-    display: grid;
     grid-template-columns: 1fr auto;
     grid-template-rows: 1fr 2fr;
 }
 
 .secao-vertical .secao__cartoes {
     grid-column: 1/3;
+}
+
+/*Menu*/
+.menu-lateral {
+    display: grid;
+    grid-template-rows: auto auto auto 1fr;
+    row-gap: 2rem;
 }
