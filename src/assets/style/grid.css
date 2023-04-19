@@ -19,6 +19,7 @@ body {
     grid-area: main;
 }
 
+/*Seção horizontal*/
 
 .secao-horizontal .cartao {
     display: grid;
@@ -34,4 +35,16 @@ body {
     /*grid-column: 3/4;
     grid-row: 1/4;*/
     grid-area: 1/4/3/4;
+}
+
+/*Seção vertical*/
+
+.secao-vertical {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    grid-template-rows: 1fr 2fr;
+}
+
+.secao-vertical .secao__cartoes {
+    grid-column: 1/3;
 }
