@@ -21,7 +21,7 @@ button {
     --verde: #84EEC1;
     --cinza: rgba(196, 196, 196, 0.2);
     --cor-textos: #ffffff;
-    --fonte-textos: 'Open Sans', sans-serif;
+    --fonte-textos: 'Ubuntu', sans-serif;
 }
 
 * {

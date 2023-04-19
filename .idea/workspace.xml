@@ -5,58 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d5f7f8e-c368-44de-9216-e7dfd1e530a0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/alura-Cast_logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/boss-1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/boss-2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/botao-play.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/botao-play.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/carreiras-1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/fronteiras-1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/fronteiras-2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/fronteiras-3.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/fronteiras-4.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/fronteiras-5.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/fronteiras-6.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/fronteiras-7.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/hipsters-1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/hipsters-2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/hipsters-3.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/hipsters-4.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/hipsters-5.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/hipsters-6.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/hipsters-7.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/hipsters-8.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/hipsters-9.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/icone-add_box.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/icone-anterior.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/icone-avancar.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/icone-biblioteca-mb.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/icone-biblioteca.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/icone-busca-mb.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/icone-busca.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/icone-home-mb.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/icone-home.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/icone-play.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/icone-proximo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/icone-replay.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/icone-stars.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/icone-volume-down.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/icone-volume-up.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/layers-1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/layers-2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/layers-3.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/scuba-1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/scuba-2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/scuba-3.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/seta-avançar.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/seta-voltar.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/style/base.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/style/grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/style/reset.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/style/responsivo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/style/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/style/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/style/grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/style/grid.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +83,7 @@
       <workItem from="1681146053488" duration="599000" />
       <workItem from="1681220968299" duration="590000" />
       <workItem from="1681944992886" duration="221000" />
-      <workItem from="1681945220519" duration="605000" />
+      <workItem from="1681945220519" duration="861000" />
     </task>
     <task id="LOCAL-00001" summary="Aula 1 - Grid areas">
       <created>1677897170347</created>
