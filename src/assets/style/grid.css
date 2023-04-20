@@ -65,10 +65,16 @@ body {
 /*Menu*/
 .menu-lateral {
     display: grid;
-    grid-template-rows: auto auto auto 1fr;
+    grid-template-rows: repeat(3, auto) 1fr;
     row-gap: 2rem;
 }
 
 .menu-lateral__logo {
     justify-self: center;
+}
+
+/*Navbar*/
+.navbar__items {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
 }
