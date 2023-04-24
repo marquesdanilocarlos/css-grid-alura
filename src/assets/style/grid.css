@@ -76,13 +76,16 @@ body {
 
 .secao__cartoes {
     display: grid;
+    --gap-coluna: 1.25rem;
+    grid-gap: 1rem var(--gap-coluna);
+    --gap-proporcional: var(--gap-coluna) * (var(--quantidade-maxima-colunas)-1) / var(--quantidade-maxima-colunas);
 
     /*Largura minima da coluna*/
-    --largura-minima-coluna: 100%/2;
+    --largura-minima-coluna: 100%/2 - var(--gap-proporcional);
 
     /*Largura máxima da coluna*/
     --max-largura-maxima-coluna: 100%/var(--quantidade-maxima-colunas);
-    --largura-maxima-coluna: max(var(--min-largura-maxima-coluna), var(--max-largura-maxima-coluna));
+    --largura-maxima-coluna: max(var(--min-largura-maxima-coluna), var(--max-largura-maxima-coluna) - var(--gap-proporcional));
 
     --minimo: min(var(--largura-minima-coluna), var(--largura-maxima-coluna));
 
